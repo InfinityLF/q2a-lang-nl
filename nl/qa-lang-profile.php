@@ -64,7 +64,7 @@
 		'x_down_votes' => '^ stemmen omlaag',
 		'x_up_votes' => '^ stemmen omhoog',
 		'x_with_best_chosen' => ' (^ met beste antwoord gekozen)',
-        'bonus_points' => "Bonus punten:",
+        	'bonus_points' => "Bonus punten:",
 		'permit_close_q' => "Het sluiten van een vragen",
 		'permit_moderate' => "Vragen toestaan of weigeren",
 		'permit_recat' => "Opnieuw categoriseren van vragen",
