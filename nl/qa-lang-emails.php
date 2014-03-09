@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	
 /*
 	Question2Answer 1.4.1 (c) 2011, Gideon Greenspan
@@ -57,7 +57,7 @@
 		'welcome_body' => "Bedankt voor je registratie op ^site_title.\n\n^custom^confirmJe logingegevens zijn als volgt:\n\nGebruikersnaam: ^handle\nE-mail: ^email\n\nBewaar deze gegevens zorgvuldig.\n\nMet vriendelijke groet,\n\n^site_title\n^url",
 		'welcome_confirm' => "Klik hieronder om je e-mailadres te bevestigen.\n\n^url\n\n",
 		'welcome_subject' => 'Welkom bij ^site_title!',
-        'moderate_body' => "Een bericht door ^p_handle heeft je toestemming nodig:\n\n^open^p_context^close\n\nKlik hieronder om het bericht te accepteren of weigeren:\n\n^url\n\nKlik hier om alle berichten die wachten op moderatie te bekijken:\n\n^a_url\n\n\nMet vriendelijke groet,\n\n^site_title",
+        	'moderate_body' => "Een bericht door ^p_handle heeft je toestemming nodig:\n\n^open^p_context^close\n\nKlik hieronder om het bericht te accepteren of weigeren:\n\n^url\n\nKlik hier om alle berichten die wachten op moderatie te bekijken:\n\n^a_url\n\n\nMet vriendelijke groet,\n\n^site_title",
 		'moderate_subject' => "^site_title moderatie",
 		'to_handle_prefix' => "^,\n\n",
 		'remoderate_body' => "Een bericht is bewerkt door ^p_handle en vergt opnieuw je goedkeuring:\n\n^open^p_context^close\n\nKlik hieronder om het bewerkte bericht goed te keuren of te verbergen:\n\n^url\n\n\nKlik hieronder om alle berichten die wachten op moderatie te bekijken:\n\n^a_url\n\n\nMet vriendelijke groet,\n\n^site_title",
