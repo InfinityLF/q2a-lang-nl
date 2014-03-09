@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	
 /*
 	Question2Answer 1.4.1 (c) 2011, Gideon Greenspan
