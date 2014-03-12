@@ -15,7 +15,7 @@ Installatie instructies (in Dutch)
 
 Quick fix for the Snow v1.3 theme
 ===========
-A quick fix for the voting boxes being too small due to the Dutch language. Make sure you have voting on questions only enabled on the question page itself.
+A quick fix for the voting boxes being too small due to the Dutch language. Make sure you have voting on questions enabled on the question page itself only.
 
 Add the following to the bottom of styles.css:
 
