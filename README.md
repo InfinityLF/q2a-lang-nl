@@ -19,6 +19,7 @@ A quick fix for the voting boxes being too small due to the Dutch language. Make
 
 Add the following to the bottom of styles.css:
 
+~~~~~
 .qa-q-view .qa-voting {
 	height:80px;
 	margin-bottom:5px;
@@ -38,3 +39,4 @@ Add the following to the bottom of styles.css:
 .qa-a-selection {
 	top:110px;
 }
+~~~~~
